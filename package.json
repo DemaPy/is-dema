@@ -1,0 +1,25 @@
+{
+  "name": "demas",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/DemaPy/package",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "authomatisation"
+  ],
+  "author": "DemaPy",
+  "license": "ISC",
+  "description": "Package with not so helpful functions",
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DemaPy/package"
+  }
+}

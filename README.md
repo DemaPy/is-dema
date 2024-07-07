@@ -1,1 +1,1 @@
-# is-dema
+# Package not so helpful functions
